@@ -5,4 +5,5 @@ python:
   install:
     - requirements: requirements/pip_requirements.txt
     - method: pip
+      path: .
 
