@@ -54,7 +54,7 @@ exclusive的操作的核心，就是会将锁，用一个状态机进行维护�
 
 
 在A32和T32下，也加入LDREX和STREX指令来支持
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200929141935689.png#pic_center)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200929141935689.png)
 
 
 LDXR指令，将状态从open状态切换到exclusive状态，STXR指令，将状态从exclusive状态切换到open状态，这个就表示store exclusive操作成功
