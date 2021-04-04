@@ -1,2 +1,9 @@
- pip3 install recommonmark
- pip3 install sphinx_markdown_tables
+version: 2
+
+python:
+  version: 3
+  install:
+    - requirements: pip_requirements.txt
+    - method: pip
+      path: requirements
+
