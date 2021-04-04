@@ -3,7 +3,7 @@ version: 2
 python:
   version: 3
   install:
-    - requirements: pip_requirements.txt
+    - requirements: requirements/pip_requirements.txt
     - method: pip
-      path: requirements
+      path: .
 
