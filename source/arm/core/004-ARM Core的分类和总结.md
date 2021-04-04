@@ -15,7 +15,7 @@ L2 TLB  5-way set associative,1280-entry,支持4KB, 16KB, 64KB, 2MB, 32MB,512MB,
 L1 i-ache  64KB, 4-way set associative, 64-byte cache lines
 L2 cache  8-way set associative, 可选128KB, 256KB, or 512KB
 
-### 1、A76
+### 2、A76
 #### (1)、基本信息
 - a high-performance and low-power Arm product
 - armv8.5
