@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'armv8_doc'
-copyright = '2021, coding_the_world'
-author = 'coding_the_world'
+project = 'Armv8/armv9架构入门指南'
+copyright = '2022, baron,lhs,Qmiller,小青kelly,牛小白,MinHui,墨菲の沐夏,小林子,Mr Dai'
+author = 'baron'
 
 # The full version, including alpha/beta/rc tags
 release = 'v1.0'
