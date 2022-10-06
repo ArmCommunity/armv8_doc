@@ -4,9 +4,6 @@ Armv8/armv9架构入门指南
 |xuanchuan|
 
 
-<img src="http://assets.processon.com/chart_image/604719347d9c082c92e419de.png">
-
-
 .. toctree::
    :maxdepth: 2
 
