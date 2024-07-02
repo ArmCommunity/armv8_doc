@@ -1,0 +1,17 @@
+@media print {
+    body {
+        display: none; /* 隐藏整个页面内容 */
+    }
+
+    .no-print-message {
+        display: block; /* 显示禁止打印的消息 */
+        text-align: center;
+        font-size: 24px;
+        margin-top: 50px;
+    }
+}
+
+.no-print-message {
+    display: none; /* 默认隐藏禁止打印的消息 */
+}
+
