@@ -1,11 +1,12 @@
 Armv8/armv9架构入门指南
 #######################################
 
-|xuanchuan|
+.. raw:: html
 
+   <font color="gray" size="1"> Armv8/Armv9架构从入门到精通，Armv8/Armv9架构从入门到精通（一期），Armv8/Armv9架构从入门到精通（二期）Armv8/Armv9架构从入门到精通（三期），Arm一期、Arm二期、学习资料、免费、下载，全套资料，Secureboot从入门到精通，secureboot训练营，ATF架构从入门到精通、optee系统精讲、secureboot精讲，Trustzone/TEE/安全快速入门班，Trustzone/TEE/安全标准版，Trustzone/TEE/安全高配版。全套资料。周贺贺，baron，代码改变世界，coding_the_world，Arm精选，arm_2023，安全启动，加密启动 optee、ATF、TF-A、Trustzone、optee3.14、MMU、VMSA、cache、TLB、arm、armv8、armv9、TEE、安全、内存管理、页表，Non-cacheable,Cacheable, non-shareable,inner-shareable,outer-shareable, optee、ATF、TF-A、Trustzone、optee3.14、MMU、VMSA、cache、TLB、arm、armv8、armv9、TEE、安全、内存管理、页表…  </font>
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    arm_training/00_5-交流群-直播群-答疑群
    01
@@ -29,29 +30,14 @@ Armv8/armv9架构入门指南
    19
    20
 
-.. |xuanchuan| image:: ./qr_code/xuanchuan.jpg
 
+.. raw:: html
 
-请大家多多关注，即将免费！ 公众号:"Arm精选"
-Armv8/Armv9架构、Trustzone/TEE_安全、Secureboot
+   <font color="black" size="6">相关课程介绍：</font>
 
-.. toctree::
-   :maxdepth: 1
+.. image:: armsanqi.png
+.. image:: kechengzongjie.png
 
-   arm_training/00_9-铂金VIP的介绍
-   arm_training/02-Arm三期课程介绍
-   arm_training/03-Trustzone_TEE标准版-48节课_19.5h
-   arm_training/04-Trustzone_TEE高配版本-205节_50h
-   arm_training/05-Trustzone_TEE实践版-20节课_3.5h
-   arm_training/06-cache直播训练营回放+cacha专题-单售
-   arm_training/07-《ATF架构开发精讲》课程介绍
-   arm_training/08-Arm架构-功耗管理精讲与实战-芯片底层电源管理框架
-   arm_training/09-Secureboot从入门到精通-训练营
-   arm_training/10-《optee系统开发精讲》课程介绍
-   arm_training/11-《CA_TA开发从入门到精通》课程介绍
-   arm_training/12-ATF_optee_hafnium_linux_xen代码精读
-   arm_training/13-Keystore_keymaster_keymint课程
-   arm_training/14-《8天入门ARM架构》限时128元
-   arm_training/15-《8天入门Trustzone_TEE_安全架构》限时128元
-   arm_training/16-Android15安全架构-课程介绍
-   arm_training/17-MTE_PAC_BTI内存保护三剑客
+.. raw:: html
+
+   <font color="gray" size="1"> Armv8/Armv9架构从入门到精通，Armv8/Armv9架构从入门到精通（一期），Armv8/Armv9架构从入门到精通（二期）Armv8/Armv9架构从入门到精通（三期），Arm一期、Arm二期、学习资料、免费、下载，全套资料，Secureboot从入门到精通，secureboot训练营，ATF架构从入门到精通、optee系统精讲、secureboot精讲，Trustzone/TEE/安全快速入门班，Trustzone/TEE/安全标准版，Trustzone/TEE/安全高配版。全套资料。周贺贺，baron，代码改变世界，coding_the_world，Arm精选，arm_2023，安全启动，加密启动 optee、ATF、TF-A、Trustzone、optee3.14、MMU、VMSA、cache、TLB、arm、armv8、armv9、TEE、安全、内存管理、页表，Non-cacheable,Cacheable, non-shareable,inner-shareable,outer-shareable, optee、ATF、TF-A、Trustzone、optee3.14、MMU、VMSA、cache、TLB、arm、armv8、armv9、TEE、安全、内存管理、页表…  </font>

@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Armv8/armv9架构入门指南'
-copyright = '2022, baron,lhs,Qmiller,小青kelly,牛小白,MinHui,墨菲の沐夏,小林子,Mr Dai'
-author = 'baron'
+copyright = '2025, 周贺贺 | 讲师微信:arm2023，客服sami微信: sami01_2023'
+author = '周贺贺 Baron'
 
 # The full version, including alpha/beta/rc tags
 release = 'v1.0'
